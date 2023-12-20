@@ -1,0 +1,106 @@
+footer{
+    /* border: 3px solid; */
+    background-color: #023b6d;
+    color: #fff;
+}
+
+#high{
+    /* border: 2px solid; */
+    width:550px;
+    color: #fff !important;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: Roboto,sans-serif;
+}
+#twit{
+    /* border: 3px solid; */
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background:   #035aa6;
+}
+.bi-twitter{
+    /* border: 2px solid; */
+    margin-left:30%;
+    font-size: 15px;
+}
+#twit:hover{
+     background: #009bd9;
+    box-shadow: 0 2px 15px rgba(2,59,109,.12);
+}
+
+#facebook{
+    /* border: 2px solid; */
+     height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background:   #035aa6;
+    
+}
+#facebook:hover{
+     background: #009bd9;
+    box-shadow: 0 2px 15px rgba(2,59,109,.12);
+}
+
+.bi-facebook{
+    /* border: 2px solid; */
+    margin-left:30%;
+    margin-top: 100%; 
+    font-size: 15px;
+
+}
+
+
+#wifi{
+    /* border: 2px solid; */
+     height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background:   #035aa6;
+    
+}
+#wifi:hover{
+     background: #009bd9;
+    box-shadow: 0 2px 15px rgba(2,59,109,.12);
+}
+
+.bi-wifi{
+    /* border: 2px solid; */
+    margin-left:30%;
+    margin-top: 100%; 
+    font-size: 15px;
+   
+}
+
+#envelope{
+    /* border: 2px solid; */
+     height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background:   #035aa6;
+    
+}
+#envelope:hover{
+     background: #009bd9;
+    box-shadow: 0 2px 15px rgba(2,59,109,.12);
+}
+
+.bi-envelope{
+    /* border: 2px solid; */
+    margin-left:30%;
+    margin-top: 100%; 
+    font-size: 15px;
+   
+}
+.nav-item a{
+    color:rgb(225, 222, 222) !important;
+    
+}
+.col {
+    list-style: none;
+}
+.bi-chevron-compact-right{
+    /* border: 2px solid; */
+    color: #009bd9;
+    font-size: 18px;
+}

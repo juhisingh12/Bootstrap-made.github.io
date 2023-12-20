@@ -1,0 +1,86 @@
+article main{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    cursor: pointer;
+}
+.card-title{
+    /* border: 2px solid; */
+    color: #035195;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Poppins,sans-serif;
+    line-height: 40px;
+}
+.card-text{
+    /* border: 2px solid; */
+    color: #555;
+    font-family: Roboto,sans-serif;
+    font-size: 16px;
+     
+}
+
+.card-text button{
+    background: none !important;
+    color: #035195 !important;
+    border-radius: 0px;
+    
+}
+.card-text button+button{
+    margin-left: 2%;
+    border-radius: 0px;
+}
+.row:hover{
+    box-shadow: rgba(100 ,100,111 ,0.2) 0px 7px 29px 0px ;
+}
+.card-title:hover{
+    color: #057be1;
+}
+.card-text button:hover{
+    color: #057be1 !important;
+    border: 1px solid #057be1;
+}
+
+#content{
+    /* border: 2px solid red;  */
+    margin-top: 8%;
+    color: #444;
+    font-family: Roboto,sans-serif;
+    /* line-height: 10px; */
+}
+
+#card{
+    /* border: 2px solid red; */
+    border: none;
+    text-align: center;
+}
+
+#search{
+    border: 1px solid gray;
+    font-size: 20px;
+    font-family: inherit;
+    width: 630px;
+    height: 45px;
+}
+.btn-primary{
+    /* border: 2px solid red; */
+    margin-top: 2%;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 3px;
+    background: #0291c9;
+    color: #fff;
+}
+.btn-primary:hover{
+    background: #009bd9;
+    box-shadow: 0 2px 15px rgba(2,59,109,.12);
+}
+#card-title{
+    /* border: 2px solid; */
+    font-size: 28px;
+    line-height: 1;
+    font-weight: 600;
+    color: #023b6d;
+    font-family: Poppins,sans-serif;
+}
